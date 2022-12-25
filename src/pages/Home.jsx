@@ -18,7 +18,7 @@ const Home = () => {
         Welcome to Altavic
       </Typography>
       <Typography variant="body" color={blueGrey[300]}>
-        Were to find solution
+        Move beyond the limitations of your imaginations
       </Typography>
     </Box>
   );
